@@ -1,6 +1,4 @@
-# Awesome Hiking Checklist [[ru]](./README.ru.md)
-
-[![Awesome](https://img.shields.io/badge/Awesome-Checklist-blue.svg)](http://checklist.yingjiehu.com/)
+# Awesome Hiking Checklist
 
 A highly subjective list of the items you may need in a simple camping trip.
 
