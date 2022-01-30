@@ -7,15 +7,14 @@ A highly subjective list of the items you may need in a simple camping trip.
  - *This is not necessary or sufficient list.* Used for self-examination, to avoid forgetting even basic items. 
  - *Some items are optional for the weather or time of year.* 
  - *It was written for myself and will likely not take into account your personal preferences.* However, corrections and additions are strongly welcomed.
- - *English is not my native language.* But I'll try.
 
-## Content 
+## Content
 
 * [Navigation](#navigation-)
 * [Communication](#communication-)
 * [Illumination](#illumination-)
 * [Documents](#documents-)
-* [Bivouac](#bivouac-)
+* [Overnight](#Overnight-)
 * [Food](#food-)
 * [Clothes](#clothes-)
 * [First Aid](#first-aid-)
@@ -27,13 +26,16 @@ A highly subjective list of the items you may need in a simple camping trip.
 
 *What will help you get to where you need. And back.*
 
-* [ ] paper map
+* [ ] waterproof map
 * [ ] compass
-* [ ] gps-navigator*
+* [ ] gps-navigators
+    * [ ] [Garmin inReach](https://www.garmin.com/en-US/p/561269)
 
 ### Communication [↑](#content)
 
-* [ ] phone
+* [ ] Mobile Phone
+* [ ] NOAA Weather Radio
+* [ ] 
 * [ ] walkie talkie
 
 ### Illumination [↑](#content)
@@ -55,7 +57,7 @@ A highly subjective list of the items you may need in a simple camping trip.
 * [ ] wallet
 * [ ] stash separated from a wallet
 
-### Bivouac [↑](#content)
+### Overnight [↑](#content)
 
 *What will give you to move on.*
 
@@ -106,14 +108,17 @@ A highly subjective list of the items you may need in a simple camping trip.
 * [ ] cream (baby, protective, moisturizing)
 * [ ] local warming ointment
 * [ ] remedy for corns
-* [ ] теймурова паста
+* [ ] hydrocolloid gel bandages
+    * [ ] Great for treating blisters on the hike. Apply to clean surface.
+    * [ ] [Band-aid Brand](https://www.band-aid.com/products/hydro-seal-wound-care/heel-blister-bandages-6-ct-one-size)
 * [ ] antihistamine 
-  * pills (Супрастин, Драмина)
-  * localized ointment (Фенистил)
-* [ ] painkillers (Цитрамон, Нимесулид, Ибупрофен, Дротаверин)
-* [ ] rehydration (Регидрон)
-* [ ] healing remedies (Пантенол, клей БФ)
-* [ ] remedies for diarrhea (Лоперамид, Денол)
+  * pills 
+  * localized ointment 
+* [ ] painkillers 
+* [ ] salt
+* [ ] Electrolyte snacks 
+* [ ] healing remedies
+* [ ] remedies for diarrhea
 * [ ] specific 
 
 ### Unsorted [↑](#content)
@@ -125,26 +130,26 @@ A highly subjective list of the items you may need in a simple camping trip.
 * [ ] waterproof cover for backpack
 * [ ] warmers (catalytic, chemical)
 * [ ] batteries 
-* [ ] gloves (working, wastable)
+* [ ] gloves
 * [ ] sitting pad
 * [ ] Utensil
   * mug
   * spoon 
   * bowl
-  * knife (swissarmy, hiking, wastable, potato peeler)
+  * knife
 * [ ] toothpicks
 * [ ] yarn and needles
 * [ ] wristwatch
-* [ ] ПРСТ (СЛГ)
-  * showel 
+* [ ] Toiletries
+  * portable shower 
   * ~~hairbrush~~
   * toothbrush, toothpaste
   * toilet paper
   * wet wipes
 * [ ] trash bags 
-* [ ] wistle
+* [ ] whistle
 * [ ] row
-* [ ] spaceblanket
+* [ ] space blanket
 * [ ] ~~book~~
 * [ ] writing items (pen, pencil)
 * [ ] entertainment (harmonica, guitar, ukulele, etc.)
@@ -156,7 +161,7 @@ A highly subjective list of the items you may need in a simple camping trip.
 
 * [ ] charge all rechargeable batteries
 * [ ] replace non rechargeable batteries
-* [ ] sharpen kinves
+* [ ] sharpen knives
 * [ ] check out the tent
 * [ ] clean the pots
 * [ ] cash out
@@ -164,7 +169,7 @@ A highly subjective list of the items you may need in a simple camping trip.
 * [ ] inform about the route to relatives or friends
 * [ ] distribute common equipment
 
-### DONTS [↑](#content)
+### DONT'S [↑](#content)
 
 *No. Don't do it *
 
